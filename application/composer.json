@@ -1,0 +1,12 @@
+{
+    "name": "t-gamer/application",
+    "authors": [
+        {
+            "name": "Murilo Pucci",
+            "email": "murilohpucci@gmail.com"
+        }
+    ],
+    "require": {
+        "bigbluebutton/bigbluebutton-api-php": "dev-master"
+    }
+}
